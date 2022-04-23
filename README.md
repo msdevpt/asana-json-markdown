@@ -9,9 +9,6 @@ $ cd asana-json-markdown\src
 $ dotnet run in.json out.md
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
